@@ -1,0 +1,176 @@
+{
+  "account": [
+    {
+      "name": "Ganesh",
+      "mobile": "7674546673",
+      "email": "fgsrh@gmail.com",
+      "password": "3298u",
+      "id": "1"
+    },
+    {
+      "name": "iasjffwie",
+      "mobile": "12398611323",
+      "email": "osdhfos@gmail.com",
+      "password": "weofhefn",
+      "id": "2"
+    },
+    {
+      "name": "Mukesh",
+      "mobile": "1294814148",
+      "email": "s2@gmail.com",
+      "password": "123",
+      "id": "3"
+    }
+  ],
+  "product": [
+    {
+      "name": "scenario",
+      "price": "21312",
+      "photo": "1.jpg",
+      "details": "greenary",
+      "sellerid": "3",
+      "id": "3"
+    },
+    {
+      "name": "grapes",
+      "price": "123",
+      "photo": "7.jpeg",
+      "details": "good taste",
+      "sellerid": "1",
+      "id": "4"
+    },
+    {
+      "name": "mouse",
+      "price": "2134",
+      "photo": "6.jpeg",
+      "details": "dell mouse ",
+      "sellerid": "1",
+      "id": "5"
+    },
+    {
+      "name": "Banana",
+      "price": "43",
+      "photo": "5.jpeg",
+      "details": "Nice Banana",
+      "sellerid": "1",
+      "id": "6"
+    },
+    {
+      "name": "Php book",
+      "price": "400",
+      "photo": "8.jpeg",
+      "details": "This book will make you backend developer.",
+      "sellerid": "1",
+      "id": "7"
+    }
+  ],
+  "cart": [
+    {
+      "name": "Banana",
+      "price": "43",
+      "photo": "5.jpeg",
+      "details": "Nice Banana",
+      "sellerid": "1",
+      "id": "6",
+      "qty": 1
+    },
+    {
+      "name": "Php book",
+      "price": "400",
+      "photo": "8.jpeg",
+      "details": "This book will make you backend developer.",
+      "sellerid": "1",
+      "id": "7",
+      "qty": 1
+    },
+    {
+      "id": "7",
+      "name": "Php book",
+      "price": "400",
+      "photo": "8.jpeg",
+      "details": "This book will make you backend developer.",
+      "sellerid": "1",
+      "qty": 1
+    }
+  ],
+  "order": [
+    {
+      "customername": "Mine",
+      "mobile": "9345937",
+      "address": "heres",
+      "item": [
+        {
+          "name": "Banana",
+          "price": "43",
+          "photo": "5.jpeg",
+          "details": "Nice Banana",
+          "sellerid": "1",
+          "id": 6,
+          "qty": 1
+        },
+        {
+          "name": "grapes",
+          "price": "123",
+          "photo": "7.jpeg",
+          "details": "good taste",
+          "sellerid": "1",
+          "id": 4,
+          "qty": 1
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "customername": "Her",
+      "mobile": "74592349",
+      "address": "there",
+      "item": [
+        {
+          "name": "Banana",
+          "price": "43",
+          "photo": "5.jpeg",
+          "details": "Nice Banana",
+          "sellerid": "1",
+          "id": 6,
+          "qty": 1
+        },
+        {
+          "name": "grapes",
+          "price": "123",
+          "photo": "7.jpeg",
+          "details": "good taste",
+          "sellerid": "1",
+          "id": 4,
+          "qty": 3
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "customername": "New",
+      "mobile": "724673412",
+      "address": "THIS",
+      "item": [
+        {
+          "name": "scenario",
+          "price": "21312",
+          "photo": "1.jpg",
+          "details": "greenary",
+          "sellerid": "3",
+          "id": 3,
+          "qty": 1
+        },
+        {
+          "name": "Banana",
+          "price": "43",
+          "photo": "5.jpeg",
+          "details": "Nice Banana",
+          "sellerid": "1",
+          "id": 6,
+          "qty": 1
+        }
+      ],
+      "id": "3"
+    }
+  ]
+}
